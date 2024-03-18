@@ -1,3 +1,6 @@
+// Nama : Muhammad Luthfi Naldi
+// Nim : 2301092025
+
 package luthfi_14_maret.latihan;
 
 import javax.swing.JOptionPane;
